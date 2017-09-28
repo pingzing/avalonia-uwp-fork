@@ -6,7 +6,5 @@ using System.Threading.Tasks;
 
 namespace Avalonia.UWP
 {
-    public class Class1
-    {
-    }
+
 }
