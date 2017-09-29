@@ -111,10 +111,10 @@
     <Compile Include="CursorFactoryImpl.cs" />
     <Compile Include="KeyboardDeviceImpl.cs" />
     <Compile Include="PlatformIconLoaderImpl.cs" />
-    <Compile Include="PlatformRuntimeImpl.cs" />
     <Compile Include="PlatformThreadingInterfaceImpl.cs" />
     <Compile Include="RenderLoopImpl.cs" />
     <Compile Include="SystemDialogImpl.cs" />
+    <Compile Include="TopLevelImpl.cs" />
     <Compile Include="UWPPlatform.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UWPPlatformSettings.cs" />
